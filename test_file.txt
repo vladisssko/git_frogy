@@ -1,0 +1,8 @@
+db_connection_string = "abcd"
+
+func(db_connection_string){
+    ... 1000 riadkov
+    n = connect_and_return_number(db_connection_string)
+    print(n)
+    ... 1000 riadkov
+}
