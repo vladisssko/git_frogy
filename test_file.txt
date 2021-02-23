@@ -2,7 +2,7 @@ db_connection_string = "abcd"
 
 
 func acid(){
-	play_acid_song()
+	play_acid_dong()
 }
 
 func(db_connection_string){
