@@ -1,2 +1,2 @@
-def skip():
+def skippy():
     print("skip")
